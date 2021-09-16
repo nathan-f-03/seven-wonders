@@ -1,1 +1,0 @@
-PowerShell.exe py -m http.server
