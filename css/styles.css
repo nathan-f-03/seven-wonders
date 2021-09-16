@@ -28,35 +28,35 @@ body {
 }
 
 #pyramid__image {
-    background-image: url("img/pyramid_of_giza.jfif"); 
+    background-image: url("./img/pyramid-of-giza.bmp"); 
 }
 
 #wall__image {
-    background-image: url("img/great_wall_of_china.jpg"); 
+    background-image: url("./img/great-wall-of-china.jpg"); 
 }
 
 #petra__image {
-    background-image: url("img/petra.jpg"); 
+    background-image: url("./img/petra.jpg"); 
 }
 
 #machu__image {
-    background-image: url("img/machu_picchu.jpg"); 
+    background-image: url("./img/machu-picchu.jpg"); 
 }
 
 #redeemer__image {
-    background-image: url("img/christ_the_redeemer.jpg"); 
+    background-image: url("./img/christ-the-redeemer.jpg"); 
 }
 
 #colosseum__image {
-    background-image: url("img/the_colosseum.jpg"); 
+    background-image: url("./img/the-colosseum.jpg"); 
 }
 
 #chichen__image {
-    background-image: url("img/chichen_itza.jpg"); 
+    background-image: url("./img/chichen-itza.jpg"); 
 }
 
 #taj__image {
-    background-image: url("img/taj_mahal.jpg"); 
+    background-image: url("./img/taj-mahal.jpg"); 
 }
 
 
